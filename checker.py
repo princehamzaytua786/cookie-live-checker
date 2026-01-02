@@ -1,4 +1,1 @@
-import os
-os.system('git pull')
-os.system('xdg-open https://chat.whatsapp.com/D4HUkBfUyFGI6kgZIySAOD?mode=wwt')
-import tes
+print('TOOL ADMIN WHATSAPP NUMBER : 03240191630')
