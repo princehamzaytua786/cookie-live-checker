@@ -1,3 +1,1 @@
-import os
-os.system('git pull')
-import speeds
+print('TOOL ADMIN WHATSAPP NUMBER : 03240191630')
